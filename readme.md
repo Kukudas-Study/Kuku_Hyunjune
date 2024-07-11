@@ -2,21 +2,21 @@
 
 ## 유형 2
  
-문제 1 [BOJ] 오븐 시계
+~~문제 1 [BOJ] 오븐 시계~~
 
-https://www.acmicpc.net/problem/2525 
+~~https://www.acmicpc.net/problem/2525~~
 
-문제 2 [BOJ] 주사위 세개
+~~문제 2 [BOJ] 주사위 세개~~
 
-https://www.acmicpc.net/problem/2480 
+~~https://www.acmicpc.net/problem/2480~~
 
-문제 3 [BOJ] 윤년
+~~문제 3 [BOJ] 윤년~~
 
-https://www.acmicpc.net/problem/2753 
+~~https://www.acmicpc.net/problem/2753~~
 
-문제 4 [BOJ] 사분면 고르기
+~~문제 4 [BOJ] 사분면 고르기~~
 
-https://www.acmicpc.net/problem/14681 
+~~https://www.acmicpc.net/problem/14681~~
 
 문제 5 [BOJ] 별찍기 - 2
 
