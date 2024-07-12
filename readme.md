@@ -26,8 +26,7 @@
 
 ~~https://www.acmicpc.net/problem/10988~~
 
-문제 7 [BOJ] 공 넣기
-
+문제 7 [BOJ] 공 넣기 // Skip
 https://www.acmicpc.net/problem/10810 
 
 문제 8 [BOJ] 최댓값
