@@ -34,9 +34,9 @@ https://www.acmicpc.net/problem/10810
 
 ~~https://www.acmicpc.net/problem/2562~~ 
 
-문제 9 [BOJ] 평균
+~~문제 9 [BOJ] 평균~~
 
-https://www.acmicpc.net/problem/1546 
+~~https://www.acmicpc.net/problem/1546~~
 
 ### SKIP (어렵다) :(
 문제 10 [BOJ] 바구니 뒤집기
