@@ -1,61 +1,43 @@
-# 3주차
+# 유형 2
 
-## 유형 2
+문제 범위는 [ 조건, 반복문, 1차원 배열, 2차원 배열 ] 입니다.
+10번은 못풀어도(안풀어도 X) 됩니다. 해당 주차 코드리뷰에서 다룰 예정 or 따로 글 게시.
  
-~~문제 1 [BOJ] 오븐 시계~~
+### 문제 1 [BOJ] 나머지
 
-~~https://www.acmicpc.net/problem/2525~~
+https://www.acmicpc.net/problem/3052 
 
-~~문제 2 [BOJ] 주사위 세개~~
+#### 문제 2 [BOJ] 공 바꾸기
 
-~~https://www.acmicpc.net/problem/2480~~
+https://www.acmicpc.net/problem/10813 
 
-~~문제 3 [BOJ] 윤년~~
+#### 문제 3 [PRO] 369게임
 
-~~https://www.acmicpc.net/problem/2753~~
+https://school.programmers.co.kr/learn/courses/30/lessons/120891 
 
-~~문제 4 [BOJ] 사분면 고르기~~
+#### 문제 4 [BOJ] 수 정렬하기 3
 
-~~https://www.acmicpc.net/problem/14681~~
+https://www.acmicpc.net/problem/10989 
 
-~~문제 5 [BOJ] 별찍기 - 2~~
+#### 문제 5 [BOJ] 일곱 난쟁이
 
-~~https://www.acmicpc.net/problem/2439~~
+https://www.acmicpc.net/problem/2309 
 
-~~문제 6 [BOJ] 팰린드롬인지 확인하기~~
+#### 문제 6 [BOJ] 분해합
 
-~~https://www.acmicpc.net/problem/10988~~
+https://www.acmicpc.net/problem/2231 
 
-### SKIP (어렵다) :(
-문제 7 [BOJ] 공 넣기
-https://www.acmicpc.net/problem/10810 
+#### 문제 7 [PRO] 진료순서 정하기
 
-~~문제 8 [BOJ] 최댓값~~
+https://school.programmers.co.kr/learn/courses/30/lessons/120835 
 
-~~https://www.acmicpc.net/problem/2562~~ 
+#### 문제 8 [PRO] 안전지대
 
-~~문제 9 [BOJ] 평균~~
+https://school.programmers.co.kr/learn/courses/30/lessons/120866 
 
-~~https://www.acmicpc.net/problem/1546~~
+#### 문제 9 [PRO] 모의고사
+https://school.programmers.co.kr/learn/courses/30/lessons/42840 
 
-### SKIP (어렵다) :(
-문제 10 [BOJ] 바구니 뒤집기
-https://www.acmicpc.net/problem/10811 
-
-~~문제 11 [BOJ] 행렬 덧셈~~
-
-~~https://www.acmicpc.net/problem/2738~~ 
-
-### SKIP (어렵다) :(
-문제 12 [PRO] 리스트 자르기
-
-https://school.programmers.co.kr/learn/courses/30/lessons/181897 
-
-### SKIP (어렵다) :(
-문제 13 [PRO] 공 던지기
-
-https://school.programmers.co.kr/learn/courses/30/lessons/120843 
-
-~~문제 14 [BOJ] 최댓값 - 위 최댓값과 다른 문제입니다.~~
-
-~~https://www.acmicpc.net/problem/2566~~ 
+#### 문제 10 [BOJ] 달팽이
+https://www.acmicpc.net/problem/1913 
+ 
