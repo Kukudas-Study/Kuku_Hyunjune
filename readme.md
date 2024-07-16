@@ -26,24 +26,25 @@
 
 ~~https://www.acmicpc.net/problem/10988~~
 
-문제 7 [BOJ] 공 넣기 // Skip
+### SKIP (어렵다) :(
+문제 7 [BOJ] 공 넣기
 https://www.acmicpc.net/problem/10810 
 
-문제 8 [BOJ] 최댓값
+~~문제 8 [BOJ] 최댓값~~
 
-https://www.acmicpc.net/problem/2562 
+~~https://www.acmicpc.net/problem/2562~~ 
 
 문제 9 [BOJ] 평균
 
 https://www.acmicpc.net/problem/1546 
 
+### SKIP (어렵다) :(
 문제 10 [BOJ] 바구니 뒤집기
-
 https://www.acmicpc.net/problem/10811 
 
-문제 11 [BOJ] 행렬 덧셈
+~~문제 11 [BOJ] 행렬 덧셈~~
 
-https://www.acmicpc.net/problem/2738 
+~~https://www.acmicpc.net/problem/2738~~ 
 
 문제 12 [PRO] 리스트 자르기
 
