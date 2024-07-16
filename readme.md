@@ -46,14 +46,16 @@ https://www.acmicpc.net/problem/10811
 
 ~~https://www.acmicpc.net/problem/2738~~ 
 
+### SKIP (어렵다) :(
 문제 12 [PRO] 리스트 자르기
 
 https://school.programmers.co.kr/learn/courses/30/lessons/181897 
 
+### SKIP (어렵다) :(
 문제 13 [PRO] 공 던지기
 
 https://school.programmers.co.kr/learn/courses/30/lessons/120843 
 
-문제 14 [BOJ] 최댓값 - 위 최댓값과 다른 문제입니다.
+~~문제 14 [BOJ] 최댓값 - 위 최댓값과 다른 문제입니다.~~
 
-https://www.acmicpc.net/problem/2566 
+~~https://www.acmicpc.net/problem/2566~~ 
