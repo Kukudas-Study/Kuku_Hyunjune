@@ -5,17 +5,17 @@
 문제 범위는 [ 조건, 반복문, 1차원 배열, 2차원 배열 ] 입니다.
 10번은 못풀어도(안풀어도 X) 됩니다. 해당 주차 코드리뷰에서 다룰 예정 or 따로 글 게시.
  
-### 문제 1 [BOJ] 나머지
+~~#### 문제 1 [BOJ] 나머지~~
 
-https://www.acmicpc.net/problem/3052 
+~~https://www.acmicpc.net/problem/3052~~ 
 
 #### 문제 2 [BOJ] 공 바꾸기
 
 https://www.acmicpc.net/problem/10813 
 
-#### 문제 3 [PRO] 369게임
+~~#### 문제 3 [PRO] 369게임~~
 
-https://school.programmers.co.kr/learn/courses/30/lessons/120891 
+~~https://school.programmers.co.kr/learn/courses/30/lessons/120891~~ 
 
 #### 문제 4 [BOJ] 수 정렬하기 3
 
