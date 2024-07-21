@@ -9,15 +9,16 @@
 
 ~~https://www.acmicpc.net/problem/3052~~ 
 
-#### 문제 2 [BOJ] 공 바꾸기
+~~#### 문제 2 [BOJ] 공 바꾸기~~
 
-https://www.acmicpc.net/problem/10813 
+~~https://www.acmicpc.net/problem/10813~~ 
 
 ~~#### 문제 3 [PRO] 369게임~~
 
 ~~https://school.programmers.co.kr/learn/courses/30/lessons/120891~~ 
 
 ~~#### 문제 4 [BOJ] 수 정렬하기 3~~
+
 ~~https://www.acmicpc.net/problem/10989~~ 
  - 제출 시 시간초과 / 이클립스에서는 오류 없이 잘 작동 :)
 
