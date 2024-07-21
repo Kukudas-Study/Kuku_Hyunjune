@@ -29,8 +29,10 @@ public class Main {
             arr[J-1] = temp;
         }
         
+        // 정렬 출력
         for(int k = 0; k <arr.length; k++) {
             System.out.print(arr[k] + " ");
         }
     }
 }
+
