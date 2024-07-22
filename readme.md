@@ -29,9 +29,9 @@ https://www.acmicpc.net/problem/2309
 
 https://www.acmicpc.net/problem/2231 
 
-#### 문제 7 [PRO] 진료순서 정하기
+~~#### 문제 7 [PRO] 진료순서 정하기~~
 
-https://school.programmers.co.kr/learn/courses/30/lessons/120835 
+~~https://school.programmers.co.kr/learn/courses/30/lessons/120835~~ 
 
 #### 문제 8 [PRO] 안전지대
 
