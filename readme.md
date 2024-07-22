@@ -22,9 +22,9 @@
 ~~https://www.acmicpc.net/problem/10989~~ 
  - 제출 시 시간초과 / 이클립스에서는 오류 없이 잘 작동 :)
 
-#### 문제 5 [BOJ] 일곱 난쟁이
+~~#### 문제 5 [BOJ] 일곱 난쟁이~~
 
-https://www.acmicpc.net/problem/2309 
+~~https://www.acmicpc.net/problem/2309~~ 
 
 #### 문제 6 [BOJ] 분해합
 
