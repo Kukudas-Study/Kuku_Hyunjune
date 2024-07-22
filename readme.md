@@ -9,9 +9,9 @@
 
 ~~https://www.acmicpc.net/problem/3052~~ 
 
-#### 문제 2 [BOJ] 공 바꾸기
+~~#### 문제 2 [BOJ] 공 바꾸기~~
 
-https://www.acmicpc.net/problem/10813 
+~~https://www.acmicpc.net/problem/10813~~ 
 
 ~~#### 문제 3 [PRO] 369게임~~
 
