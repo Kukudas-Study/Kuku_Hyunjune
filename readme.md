@@ -26,6 +26,7 @@
 
 ~~https://www.acmicpc.net/problem/2309~~ 
 
+## 어렵다 :(
 #### 문제 6 [BOJ] 분해합
 
 https://www.acmicpc.net/problem/2231 
@@ -34,6 +35,7 @@ https://www.acmicpc.net/problem/2231
 
 ~~https://school.programmers.co.kr/learn/courses/30/lessons/120835~~ 
 
+## 어렵다 :(
 #### 문제 8 [PRO] 안전지대
 
 https://school.programmers.co.kr/learn/courses/30/lessons/120866 
@@ -42,6 +44,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/120866
 
 ~~https://school.programmers.co.kr/learn/courses/30/lessons/42840~~ 
 
+## 어렵다 :(
 #### 문제 10 [BOJ] 달팽이
 https://www.acmicpc.net/problem/1913 
  
