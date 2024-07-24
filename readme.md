@@ -5,9 +5,7 @@
 문제 범위는 [ 정렬, 2차원 배열, 스택, 큐, 덱 ] 입니다.
 
  
-문제 1 [BOJ] 세로읽기
-
-https://www.acmicpc.net/problem/10798 
+~~문제 1 [BOJ] 세로읽기 https://www.acmicpc.net/problem/10798~~ 
 
 
 문제 2 [PRO] 같은 숫자는 싫어
