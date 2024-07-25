@@ -8,9 +8,7 @@
 ~~문제 1 [BOJ] 세로읽기 https://www.acmicpc.net/problem/10798~~ 
 
 
-문제 2 [PRO] 같은 숫자는 싫어
-
-https://school.programmers.co.kr/learn/courses/30/lessons/12906 
+~~문제 2 [PRO] 같은 숫자는 싫어https://school.programmers.co.kr/learn/courses/30/lessons/12906~~ 
 
 
 문제 3 [BOJ] 커트라인
