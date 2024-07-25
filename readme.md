@@ -11,9 +11,7 @@
 ~~문제 2 [PRO] 같은 숫자는 싫어https://school.programmers.co.kr/learn/courses/30/lessons/12906~~ 
 
 
-문제 3 [BOJ] 커트라인
-
-hhttps://www.acmicpc.net/problem/25305 
+~~문제 3 [BOJ] 커트라인hhttps://www.acmicpc.net/problem/25305~~
 
 
 문제 4 [BOJ] 소트인사이드
