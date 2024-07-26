@@ -14,9 +14,7 @@
 ~~문제 3 [BOJ] 커트라인hhttps://www.acmicpc.net/problem/25305~~
 
 
-문제 4 [BOJ] 소트인사이드
-
-https://www.acmicpc.net/problem/1427 
+~~문제 4 [BOJ] 소트인사이드https://www.acmicpc.net/problem/1427~~ 
 
 
 문제 5 [BOJ] 큐 2
