@@ -37,8 +37,6 @@ https://www.acmicpc.net/problem/10866
 https://www.acmicpc.net/problem/2563 
 
 
-
-
 ## 추천 문제
 
 ### 유형 2
@@ -47,7 +45,4 @@ https://www.acmicpc.net/problem/2563
 
 https://www.acmicpc.net/problem/9012 
 
-
-[BOJ] 제로
-
-hhttps://www.acmicpc.net/problem/10773 
+~~[BOJ] 제로hhttps://www.acmicpc.net/problem/10773~~ 
