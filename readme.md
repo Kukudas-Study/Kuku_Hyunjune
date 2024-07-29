@@ -17,7 +17,7 @@
 ~~문제 4 [BOJ] 소트인사이드https://www.acmicpc.net/problem/1427~~ 
 
 
-#### 출력 초과 :(
+### 시간 초과 :(
 ~~문제 5 [BOJ] 큐 2https://www.acmicpc.net/problem/18258~~ 
 
 

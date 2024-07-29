@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Main {
@@ -20,7 +20,7 @@ public class Main {
 		// 이후 명령어
 		
 		// 큐로 사용할 배열
-		List<Integer> q = new ArrayList<>();
+		List<Integer> q = new LinkedList<>();
 		
 		BufferedReader rd = new BufferedReader(new InputStreamReader(System.in));
 		
