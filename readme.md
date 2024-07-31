@@ -41,8 +41,6 @@ https://www.acmicpc.net/problem/2563
 
 ### 유형 2
 
-[BOJ] 괄호
-
-https://www.acmicpc.net/problem/9012 
+~~[BOJ] 괄호https://www.acmicpc.net/problem/9012~~ 
 
 ~~[BOJ] 제로hhttps://www.acmicpc.net/problem/10773~~ 
