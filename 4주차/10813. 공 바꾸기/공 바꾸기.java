@@ -29,10 +29,17 @@ public class Main {
             arr[J-1] = temp;
         }
         
+<<<<<<< HEAD
         // 정렬 출력
+=======
+>>>>>>> a3745a9f64144362d4484437e5a66b35e9e8f890
         for(int k = 0; k <arr.length; k++) {
             System.out.print(arr[k] + " ");
         }
     }
+<<<<<<< HEAD
 }
 
+=======
+}
+>>>>>>> a3745a9f64144362d4484437e5a66b35e9e8f890
