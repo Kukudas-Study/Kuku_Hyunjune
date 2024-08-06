@@ -10,17 +10,13 @@
 https://www.acmicpc.net/problem/2167 
 
 
-문제 2 [BOJ] 폴리오미노
-
-https://www.acmicpc.net/problem/1343 
+~~문제 2 [BOJ] 폴리오미노https://www.acmicpc.net/problem/1343~~ 
 
 
 ~~문제 3 [BOJ] 피보나치수https://www.acmicpc.net/problem/10870~~
 
 
-문제 4 [PRO] 콜라 문제
-
-https://school.programmers.co.kr/learn/courses/30/lessons/132267 
+~~문제 4 [PRO] 콜라 문제https://school.programmers.co.kr/learn/courses/30/lessons/132267~~
 
 
 문제 5 [BOJ] 숫자 야구
