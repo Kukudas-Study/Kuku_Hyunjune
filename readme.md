@@ -1,23 +1,15 @@
 # 유형 2
 
 
-<<<<<<< HEAD
 문제 범위는 [ 완전탐색,  그래프 ] 입니다.
-=======
-~~문제 2 [BOJ] 폴리오미노https://www.acmicpc.net/problem/1343~~ 
->>>>>>> 819a80b56432ccc5426e80746a821dc20c09eaa0
 
 
 ### 문제 1 [BOJ] 수학은 비대면강의입니다
 https://www.acmicpc.net/problem/19532 
 
 
-<<<<<<< HEAD
 ### 문제 2 [BOJ] 체스판 다시 칠하기
 https://www.acmicpc.net/problem/1018 
-=======
-~~문제 4 [PRO] 콜라 문제https://school.programmers.co.kr/learn/courses/30/lessons/132267~~
->>>>>>> 819a80b56432ccc5426e80746a821dc20c09eaa0
 
 
 ### 문제 3 [PRO] K번째수
