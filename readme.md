@@ -8,8 +8,11 @@
 https://www.acmicpc.net/problem/19532 
 
 
-### 문제 2 [BOJ] 체스판 다시 칠하기
-https://www.acmicpc.net/problem/1018 
+
+#### 출력 초과 :(
+~~### 문제 2 [BOJ] 체스판 다시 칠하기https://www.acmicpc.net/problem/1018~~ 
+
+
 
 
 ### 문제 3 [PRO] K번째수
