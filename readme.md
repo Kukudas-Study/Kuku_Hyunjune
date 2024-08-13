@@ -4,8 +4,7 @@
 문제 범위는 [ 완전탐색,  그래프 ] 입니다.
 
 
-### 문제 1 [BOJ] 수학은 비대면강의입니다
-https://www.acmicpc.net/problem/19532 
+~~### 문제 1 [BOJ] 수학은 비대면강의입니다https://www.acmicpc.net/problem/19532~~ 
 
 
 
